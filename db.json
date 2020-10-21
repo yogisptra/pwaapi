@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Marshbird, brown and yellow","category":"Puce"},
+{"id":2,"name":"Deer, savannah","category":"Maroon"},
+{"id":3,"name":"Smith's bush squirrel","category":"Puce"},
+{"id":4,"name":"Fat-tailed dunnart","category":"Violet"},
+{"id":5,"name":"Arctic ground squirrel","category":"Pink"},
+{"id":6,"name":"Hornbill, red-billed","category":"Green"},
+{"id":7,"name":"Baboon, savanna","category":"Pink"},
+{"id":8,"name":"Bear, black","category":"Puce"},
+{"id":9,"name":"Hoary marmot","category":"Pink"},
+{"id":10,"name":"Hawk, red-tailed","category":"Aquamarine"},
+{"id":11,"name":"Stanley crane","category":"Blue"},
+{"id":12,"name":"Prairie falcon","category":"Green"},
+{"id":13,"name":"Drongo, fork-tailed","category":"Indigo"},
+{"id":14,"name":"Tortoise, indian star","category":"Aquamarine"},
+{"id":15,"name":"Pie, rufous tree","category":"Khaki"},
+{"id":16,"name":"Goliath heron","category":"Khaki"},
+{"id":17,"name":"Oriental short-clawed otter","category":"Violet"},
+{"id":18,"name":"Gorilla, western lowland","category":"Blue"},
+{"id":19,"name":"Wolf, mexican","category":"Pink"},
+{"id":20,"name":"Wallaby, river","category":"Fuscia"}
+]
+}
